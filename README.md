@@ -46,9 +46,9 @@ camera.start_recording('/home/sel/Desktop/pratica6_cavi/video.h264')
 sleep(7)
 camera.stop_recording()
 ```
-Which created the video.h264 file of the following recording ~~converted externaly to .gif to be presented in this document~~:
+Which created the video.h264 file of the following recording ~~converted and compacted externaly to .gif to be presented in this document~~:
 
-<img src="https://i.imgur.com/woarCve.gif" width=50% height=50%>
+<img src="https://github.com/Vitor-OP/SEL0337-VitorOP-CarolineMG/blob/main/video_3.gif?raw=true" width=50% height=50%>
 
 ### Weather API
 > basic code for importing json files from a public API:
