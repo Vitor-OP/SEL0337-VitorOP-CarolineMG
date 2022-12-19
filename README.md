@@ -48,7 +48,7 @@ camera.stop_recording()
 ```
 Which created the video.h264 file of the following recording ~~converted and compacted externaly to .gif to be presented in this document~~:
 
-<img src="https://github.com/Vitor-OP/SEL0337-VitorOP-CarolineMG/blob/main/video_3.gif?raw=true" width=50% height=50%>
+<img src="https://github.com/Vitor-OP/SEL0337-VitorOP-CarolineMG/blob/main/gif_compacted.gif?raw=true" width=50% height=50%>
 
 ### Weather API
 > basic code for importing json files from a public API:
