@@ -37,7 +37,7 @@ camera.stop_preview()
 ```
 This code opens a preview for 5 seconds of the camera, marks the image with the text given, takes the picture and then closes the preview. Very straght foward, giving the following result:
 
-<img src="https://i.imgur.com/wZosJHb.jpg" width=70% height=70%>
+<img src="https://raw.githubusercontent.com/Vitor-OP/SEL0337-VitorOP-CarolineMG/main/photo.jpg" width=70% height=70%>
 
 Then, it records a video for 7 seconds, utilizing the `start_recording()` methode and the `stop_recording` methode:
 
